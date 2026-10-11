@@ -1,4 +1,4 @@
-# AozoraFavorites Ultimate Edition
+# Aozora Favorites Ultimate Edition
 
 ### 青空收藏菜单 - 终极版
 
